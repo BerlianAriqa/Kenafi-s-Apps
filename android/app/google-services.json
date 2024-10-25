@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294484172277",
+    "project_id": "kenafi",
+    "storage_bucket": "kenafi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294484172277:android:571b0ed29dd125ddd694bc",
+        "android_client_info": {
+          "package_name": "com.web.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPlvPeU8EQiVyppRX7cNlQUrR4fzjbEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
